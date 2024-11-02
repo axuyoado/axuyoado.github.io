@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://axuyoado.github.io/DTc/sitemap_index.txt
+Sitemap: https://axuyoado.github.io/EcU/sitemap_index.txt
+Sitemap: https://axuyoado.github.io/Ggy/sitemap_index.txt
+Sitemap: https://axuyoado.github.io/eyk/sitemap_index.txt
